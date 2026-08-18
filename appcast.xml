@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Snippetbar</title>
+        <item>
+            <title>2.2</title>
+            <pubDate>Tue, 18 Aug 2026 11:41:11 +0200</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar-2.2.zip" length="1810246" type="application/octet-stream" sparkle:edSignature="zTZVwdkPuN7hyhOA5izWmxrhf+pVJhsgixVmkB7P3EI/NC4fu7en25nLf/ec7dmm73MD9HEhB3QLVS2OIvkTCQ=="/>
+        </item>
+    </channel>
+</rss>
