@@ -3,6 +3,18 @@
     <channel>
         <title>Snippetbar</title>
         <item>
+            <title>2.3</title>
+            <pubDate>Tue, 18 Aug 2026 12:35:48 +0200</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar-2.3.zip" length="1818797" type="application/octet-stream" sparkle:edSignature="i+0pa1Vtg2WTP4t5kxAebqO5K/ikhQkwu/GZfgSqQCS78Inj+8CRV8165zsI8/I+mE0L+HTvdXUujBQA4/caBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar4-3.delta" sparkle:deltaFrom="3" length="82382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GCYOrbT2frLh5+Tm7H7RoJF+nQWX9VfWxZoLHyKTckmmy0gCBdbtH1vCtlYiOSEHu6YWEcnNwAlgNagqzVNsBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.2</title>
             <pubDate>Tue, 18 Aug 2026 11:41:11 +0200</pubDate>
             <link>https://martinrariga.com</link>
