@@ -3,6 +3,27 @@
     <channel>
         <title>Snippetbar</title>
         <item>
+            <title>2.6</title>
+            <pubDate>Tue, 08 Sep 2026 10:33:11 +0200</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Snippetbar now tags each request to OpenAI with an anonymous identifier for
+your install, so usage can be told apart per copy rather than arriving as one
+undifferentiated stream. The identifier is derived from your license
+activation. No text you run through Snippetbar is affected, and nothing new
+about you is sent.</p>
+]]></description>
+            <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar-2.6.zip" length="1874026" type="application/octet-stream" sparkle:edSignature="aa2aYbu1YH/AQrNx0WE3jtNsuTdkD6irtGs/nChe1ISBqsyEKxuGYD6Y0JRoJdNIQzNZziUNUiqab3RZtX4iCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar7-6.delta" sparkle:deltaFrom="6" length="83790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DNwkPixn6KX6UjlxT51H0wMFvmUgIoD6GmVk6UAPBPFXVpTtYbLvJhAJpNgcWKR/lW0Ot1QFJ3dOJOkDpWBdBg=="/>
+                <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar7-5.delta" sparkle:deltaFrom="5" length="151286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Kwll1KmptM9BV/hmF26ugWnrK1EaR11CafA/DGsdWWoVWWkXW7bc+RE6RJVpc7HRnojwufIxfcLKantLtyCCBg=="/>
+                <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar7-4.delta" sparkle:deltaFrom="4" length="170134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V9Ngu3gvmcWz5kjvo9RkXSaMw+IEUNkh+E6AY3Y3Eq+bT7Ehfiya9uw8JOj3DbKI3Ku85aB4OUxnCvxNQOv/Cg=="/>
+                <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar7-3.delta" sparkle:deltaFrom="3" length="179698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0WtmibuQm6C6KY41G7zGRBCWEwU3EeXu96ibhR3EbkUkYvoDvK2GYjc9L2iLqamyuyRteCnHTgOxqdq83LnpBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.5</title>
             <pubDate>Mon, 07 Sep 2026 12:47:09 +0200</pubDate>
             <link>https://martinrariga.com</link>
@@ -34,18 +55,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar5-4.delta" sparkle:deltaFrom="4" length="96250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VkRu6EgSGyR7fntVKrlYA+kgo0i1KWhr24uJuMiNamvYOQR8bA5pXRVgsnbb9VvB4WXzHiuVr+/+ICRVracHDg=="/>
                 <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar5-3.delta" sparkle:deltaFrom="3" length="112490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6rCgThaapVDiZy/tYwDdKdMAQF3NbmWQiaTLOh2hAEFpPm7GAbybapmK6K6hx9gxQT9kQhUSSkDWqodQVBtlBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.3</title>
-            <pubDate>Tue, 18 Aug 2026 12:35:48 +0200</pubDate>
-            <link>https://martinrariga.com</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar-2.3.zip" length="1818797" type="application/octet-stream" sparkle:edSignature="i+0pa1Vtg2WTP4t5kxAebqO5K/ikhQkwu/GZfgSqQCS78Inj+8CRV8165zsI8/I+mE0L+HTvdXUujBQA4/caBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar4-3.delta" sparkle:deltaFrom="3" length="82382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GCYOrbT2frLh5+Tm7H7RoJF+nQWX9VfWxZoLHyKTckmmy0gCBdbtH1vCtlYiOSEHu6YWEcnNwAlgNagqzVNsBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
