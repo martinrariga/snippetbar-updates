@@ -9,11 +9,13 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Snippetbar now tags each request to OpenAI with an anonymous identifier for
-your install, so usage can be told apart per copy rather than arriving as one
-undifferentiated stream. The identifier is derived from your license
-activation. No text you run through Snippetbar is affected, and nothing new
-about you is sent.</p>
+            <description><![CDATA[<h2>Snippetbar 2.6</h2>
+<p>Requests to OpenAI now carry an anonymous identifier for your copy of
+Snippetbar. It makes problems easier to track down: we can tell whether a
+failure hit one install or everybody.</p>
+<p>The identifier is a random string tied to your license activation. It
+carries no name and no email address, and OpenAI has no way to connect it to a
+person. Nothing else about how Snippetbar sends your text has changed.</p>
 ]]></description>
             <enclosure url="https://github.com/martinrariga/snippetbar-updates/releases/download/updates/Snippetbar-2.6.zip" length="1874026" type="application/octet-stream" sparkle:edSignature="aa2aYbu1YH/AQrNx0WE3jtNsuTdkD6irtGs/nChe1ISBqsyEKxuGYD6Y0JRoJdNIQzNZziUNUiqab3RZtX4iCQ=="/>
             <sparkle:deltas>
